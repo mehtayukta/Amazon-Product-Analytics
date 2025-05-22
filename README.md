@@ -52,4 +52,38 @@ The report leverages calculated DAX measures, dynamic visual elements, and clean
 - **Custom JSON Theme (Amazon branding-inspired)**
 - **Kaggle Dataset: Amazon Products**
 
+## Sample 
+Which product sub-categories offer the highest average discounts?
+![image](https://github.com/user-attachments/assets/c0f76a6c-ddf5-4a8c-afc6-f65d5f4c430b)
+
+**Within the Accessories category, the product sub-categories offering the highest average discounts are:**
+-Fashion & Silver Jewellery (~64%)
+
+-Jewellery (~58%)
+
+-Handbags & Clutches, Bags & Luggage, and Watches (each ~52–54%)
+
+-This suggests that fashion-related accessories in this category are being aggressively discounted, likely to drive volume-based sales or clear inventory.
+
+-In contrast, Gold & Diamond Jewellery shows a significantly lower average discount (~33%), which may reflect higher value perception or limited markdown strategies due to premium pricing.
+
+
+Does offering higher discounts lead to higher customer satisfaction?
+![image](https://github.com/user-attachments/assets/5325e31b-a6aa-4bce-860e-6605629202de)
+**Based on products with over 1,000 reviews across all categories:**
+
+-Products with discounts over 50% have an average rating of 2.52
+
+-Products with discounts below 50% average just 2.01 stars
+
+-The highest-rated group comes from the 71%+ discount bucket, suggesting deep discounts may attract more satisfied or less demanding customers
+
+-Products in the 11–30% discount range show the lowest average ratings (~2.0), indicating this segment may reflect underperforming items with modest price cuts
+
+**Insight:**
+
+-Higher discounts do not guarantee better ratings, but extreme discounts may be more appealing than modest ones
+
+-Moderate discounts (11–30%) may not meet customer value expectations, possibly leading to lower satisfaction
+
 
